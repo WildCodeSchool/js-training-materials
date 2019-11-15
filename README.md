@@ -59,3 +59,6 @@ Requires a good knowledge of React Hooks
 basile.vernouillet@wildcodeschool.fr
 
 [slack profile](https://app.slack.com/client/T6SG2QGG2/DHK0VJU2V/user_profile/UHNCDGZ0F) 
+
+### Slides
+
