@@ -23,7 +23,7 @@ What is the use case of this resource.
 What is the level required for the students ? (beginner, medium, advanced)
 - Beginner resources are for Project 1 period
 - Medium resources are for Project 2 period
-- Advanced resources are for Project  period
+- Advanced resources are for Project 3 period
 Is there additional requirements to use this ressource ?
 
 ##### Author
