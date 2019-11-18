@@ -2,7 +2,7 @@
 
 Hey ! This is a simple custom Hook, just to show you how to create one !
 
-##### Release / Update date
+## Release / Update date
 
 Original release: 11/09/2019
 
