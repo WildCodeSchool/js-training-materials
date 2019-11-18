@@ -2,21 +2,25 @@
 
 ## What is it ?
 
-A repo to gather all the resources the instructors want to share between Javascript training.
+A repo to gather all the resources the instructors want to share between Javascript training sessions.
 
 ## How to contribute ?
 
-Open a Pull Request to add the resource to this Readme.md in the correct section and add your lead instructor as a reviewer.
+Open a Pull Request to add the resource to this repo in the correct section and add your lead instructor as a reviewer.
 
 All the resources should be in english but in the case you need to share a french material add [fr] in the title that we know that translation has to be done.
 
-The resource must contains the following informations :
+The resource's Readme must contains the following informations :
 
 ```
 #### Title
 
 ##### Link
 Link to the resource
+
+##### Release / Upadte date
+
+Original release: mm/dd/yyyy
 
 ##### Description
 What is the use case of this resource.
