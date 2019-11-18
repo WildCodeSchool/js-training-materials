@@ -6,6 +6,8 @@ A repo to gather all the resources the instructors want to share between Javascr
 
 ## How to contribute ?
 
+### Adding a resource
+
 * Open a Pull Request to add the resource to this repo in the correct folder (create it if needed).
 * Link the readme in the correct section below 
 * Add your lead instructor as a reviewer.
@@ -40,6 +42,11 @@ Who added this resource with mail / slack contact
 
 ```
 
+### Adding a project to the portfolio
+
+* Create the folder and the md file if they don't exist
+* Add the link to the deployed project link with the campus name
+
 ## Resources
 
 ### Dojos
@@ -48,6 +55,16 @@ Who added this resource with mail / slack contact
 
 ### Live Coding
 
-[React custom Hooks](./live-coding/react/useForm-hooks/useForm.md)
+* [React custom Hooks](./live-coding/react/useForm-hooks/useForm.md)
 
 ### Slides
+
+## Portfolio
+
+### Hackathons
+
+* [Hackathon 1 September 2019](./portfolio/hackathons/sept-2019-hackathon-1.md)
+
+### Projects
+
+* [Projects 2 September 2019](./portfolio/projects/sept-2019-project-2.md)
