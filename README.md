@@ -13,26 +13,26 @@ All the resources should be in english but in the case you need to share a frenc
 The resource's Readme must contains the following informations :
 
 ```
-#### Title
+# Title
 
-##### Link
+## Link
 Link to the resource
 
-##### Release / Upadte date
+## Release / Update date
 
 Original release: mm/dd/yyyy
 
-##### Description
+## Description
 What is the use case of this resource.
 
-##### Requirements
+## Requirements
 What is the level required for the students ? (beginner, medium, advanced)
 - Beginner resources are for Project 1 period
 - Medium resources are for Project 2 period
 - Advanced resources are for Project 3 period
 Is there additional requirements to use this ressource ?
 
-##### Author
+## Author
 Who added this resource with mail / slack contact
 [slack profile](link to your slack profile)
 
