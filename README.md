@@ -30,7 +30,7 @@ Is there additional requirements to use this ressource ?
 
 ##### Author
 Who added this resource with mail / slack contact
-[slack profile](link to your slack profile) 
+[slack profile](link to your slack profile)
 
 ```
 
@@ -42,23 +42,6 @@ Who added this resource with mail / slack contact
 
 ### Live Coding
 
-#### Custom Hooks
-
-##### Link
-[Live coding Git History](https://githistory.xyz/Karnak19/useform-tuto/blob/master/src/App.js)
-
-##### Description
-A live coding to explain step by step how to create custom hooks by validating a form.
-
-##### Requirements
-Advanced React
-
-Requires a good knowledge of React Hooks
-
-##### Author
-basile.vernouillet@wildcodeschool.fr
-
-[slack profile](https://app.slack.com/client/T6SG2QGG2/DHK0VJU2V/user_profile/UHNCDGZ0F) 
+[React custom Hooks](./live-coding/react/useForm-hooks/useForm.md)
 
 ### Slides
-
