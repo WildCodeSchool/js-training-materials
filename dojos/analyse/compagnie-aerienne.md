@@ -5,3 +5,8 @@ Chaque avion est caractérisé par: un n° d'immatriculation, un type, une capac
 Certaines caractéristiques sont communes à tous les appareils d’un même type: c'est le cas du constructeur, de la capacité et du rayon d'action.
 Chaque pilote est caractérisé par un n° d'employé, un nom, une adresse, un salaire, et une qualification qui détermine les types d'appareil qu’il est habilité à piloter.
 Chaque vol est identifié par un numéro unique sur la semaine et il est caractérisé par un horaire, un trajet, un nombre de passagers, un avion, et un pilote (le commandant de bord).
+
+## Author
+
+basile.vernouillet@wildcodeschool.fr  
+[Slack profile](https://app.slack.com/client/T6SG2QGG2/DHK0VJU2V/user_profile/UHNCDGZ0F)
