@@ -2,6 +2,10 @@
 
 Hey ! This is a simple custom Hook, just to show you how to create one !
 
+##### Release / Update date
+
+Original release: 11/09/2019
+
 ## Description
 
 A live coding to explain step by step how to create custom hooks by extracting a form logic, then adding a simple validation using [Yup](https://github.com/jquense/yup)
