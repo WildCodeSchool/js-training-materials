@@ -52,8 +52,12 @@ Who added this resource with mail / slack contact
 ### Dojos
 
 - Database modelisation :
+<<<<<<< HEAD
   - [Centre de loisir](./dojos/analyse/centre-de-loisir.md)
   - [Compagnie Aérienne](./dojos/analyse/compagnie-aerienne.md)
+=======
+- []
+>>>>>>> b37a69755246c0fec407fd718ffb2bb895cbcfce
 
 ### Workshops
 
