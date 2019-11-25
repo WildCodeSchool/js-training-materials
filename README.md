@@ -75,3 +75,4 @@ Who added this resource with mail / slack contact
 ### Projects
 
 - [Projects 2 September 2019](./portfolio/projects/sept-2019-project-2.md)
+- [Projects 2 February 2019](./portfolio/projects/feb-2019-project-2.md)
