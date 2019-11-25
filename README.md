@@ -59,6 +59,7 @@ Who added this resource with mail / slack contact
   - [Compagnie Aérienne](./dojos/analyse/compagnie-aerienne.md)[FR]
 
 ### Workshops
+- [SQL workshop 1](./ateliers/sql/sql.md)
 
 ### Live Coding
 
