@@ -49,6 +49,9 @@ Who added this resource with mail / slack contact
 
 ## Resources
 
+### Projects Boilerplates
+
+- [NodeJS boilerplate - Project 3](./boilerplates/Node.md)
 ### Dojos
 
 - Database modelisation :

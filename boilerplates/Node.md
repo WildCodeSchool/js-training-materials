@@ -1,4 +1,4 @@
-# NodeJS boilerplate - Projet 3
+# NodeJS boilerplate - Project 3
 
 ## Link
 [Link to the resource](https://github.com/hugoblanc/node-template)
