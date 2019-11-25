@@ -8,7 +8,8 @@ Original release: 18/11/2019
 
 ## Description
 
-Hello, this is a workshop containing 2 sql exercies, the first one is about how to create a table and do simple queries and the second one is slighty more advanced you do queries into a database which contains information about world population. You can find the exercices and the data.sql in this folder. There is also a live [FR] explaining how to set mysql work-bench connexion and input basic commands as importing data.sql.
+Hello, this is a workshop containing 2 sql exercies, the first one is about how to create a table and do simple queries and the second one is slighty more advanced you do queries into a database which contains information about world population. You can find the here the [exercices](./exercices.md) and the [data.sql](./sql.md).  
+There is also a live [FR] explaining how to set mysql work-bench connexion and input basic commands as importing data.sql.
 
 ## Links
 
