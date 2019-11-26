@@ -5,3 +5,7 @@
 - [GitWild](https://gitwild.netlify.com/) - Biarritz
 - [Wild Fighter](https://optimistic-fermi-152103.netlify.com/) - Bordeaux
 - [Wild Wild Test](https://boring-clarke-44398d.netlify.com/) - Bordeaux
+- [Wine Note](https://wine-note.netlify.com/) - Tours
+- [Nextflick](https://nextflick.netlify.com/) - Tours
+- [Wild Fighting](https://wildfighting.netlify.com/) - Tours
+- [Wild Space](https://wildspace.netlify.com/) - Tours
