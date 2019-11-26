@@ -11,6 +11,7 @@ You must debug this app step by step
 
 ## Requirements
 ### Knowledge
+- react hooks
 - fetch api (get)
 - map array
 

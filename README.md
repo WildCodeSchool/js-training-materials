@@ -58,6 +58,8 @@ Who added this resource with mail / slack contact
   - [Centre de loisir](./dojos/analyse/centre-de-loisir.md)[FR]
   - [Compagnie Aérienne](./dojos/analyse/compagnie-aerienne.md)[FR]
 
+- React
+  - [React Debug](./dojos/react/debug-react-app.md)
 ### Workshops
 - [SQL workshop 1](./ateliers/sql/sql.md)
 
