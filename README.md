@@ -63,6 +63,7 @@ Who added this resource with mail / slack contact
 
 - Christmas (express, mysql + frontend)
   - [FR](./dojos/s13-bdd-back-front/sujet1-2.md)
+  - [EN](./dojos/s13-bdd-back-front/sujet-en.md)
   
 ### Workshops
 - [SQL workshop 1](./ateliers/sql/sql.md)
