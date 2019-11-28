@@ -60,6 +60,10 @@ Who added this resource with mail / slack contact
 
 - React
   - [React Debug](./dojos/react/debug-react-app.md)
+
+- Christmas (express, mysql + frontend)
+  - [FR](./dojos/s13-bdd-back-front/sujet1-2.md)
+  
 ### Workshops
 - [SQL workshop 1](./ateliers/sql/sql.md)
 
