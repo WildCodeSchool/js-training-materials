@@ -1,10 +1,10 @@
 # Airline Company
 
-We want to manage flights operated by an airline company, without taking care of passenger seat reservations. Only one-week flights are considered. The company has a fleet of aircraft and a team of pilots, using which it operates a series of routes serving certain cities (more precisely: certain airports). It is assumed that flights are non-stop.  
-Each aircraft is characterized by: a registration number, a type, a capacity (number of seats), a range (maximum distance that can be flown non-stop), a date of purchase and a date of last revision.
-Some characteristics are common to all devices of the same type: this is the case of the manufacturer, the capacity and the range.  
-Each pilot is characterized by an employee number, a name, an address, a salary, and a qualification that determines the types of aircraft he is authorized to fly.  
-Each flight is identified by a unique number over the week and is characterized by a schedule, a route, a number of passengers, an aircraft, and a pilot (the captain).
+Our task is to manage flights operated by an airline company, not including the management of passenger seat reservations. Only one week of flights are to be considered for the task. The company has a fleet of aircraft and a team of pilots, which operate a series of routes involving specific cities (more precisely: specific airports). It is assumed that flights are all non-stop (direct).  
+Each aircraft is characterised by a registration number, a type, a capacity (number of seats), a range (maximum distance that can be flown non-stop), a date of purchase and a date of last revision.
+Some characteristics are common to all devices of the same type, such as the manufacturer, capacity and range.  
+Each pilot is characterised by an employee number, name, address, salary, and qualification that determines the types of aircraft they are authorised to fly.  
+Each flight is identified by a unique number over the week and is characterized by a schedule, route, number of passengers, aircraft, and a pilot (the captain).
 
 ## Author
 
