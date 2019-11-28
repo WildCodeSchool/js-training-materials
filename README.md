@@ -56,7 +56,9 @@ Who added this resource with mail / slack contact
 
 - Database modelisation :
   - [Centre de loisir](./dojos/analyse/centre-de-loisir.md)[FR]
+  - [Leisure Center](./dojos/analyse/leisure-center.md)
   - [Compagnie Aérienne](./dojos/analyse/compagnie-aerienne.md)[FR]
+  - [Airline Company](./dojos/analyse/airline-company.md)
 
 - React
   - [React Debug](./dojos/react/debug-react-app.md)
