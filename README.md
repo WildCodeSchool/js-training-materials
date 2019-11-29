@@ -74,6 +74,7 @@ Who added this resource with mail / slack contact
 
 ### Live Coding
 
+- [Fetch Pokemon API](./live-coding/react/fetch-pokemon-api.md)
 - [React custom Hooks](./live-coding/react/useForm-hooks/useForm.md)
 
 ### Slides
