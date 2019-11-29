@@ -52,6 +52,8 @@ Who added this resource with mail / slack contact
 ### Projects Boilerplates
 
 - [NodeJS boilerplate - Project 3](./boilerplates/Node.md)
+- [Express/React monorepo boilerplate - Project 3](https://github.com/WildCodeSchool/project3-express-react-monorepo)
+
 ### Dojos
 
 - Database modelisation :
