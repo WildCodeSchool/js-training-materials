@@ -71,7 +71,7 @@ Who added this resource with mail / slack contact
   
 ### Workshops
 
-_to create a new workshop you are welcome to use the [Workshop Template](https://github.com/WildCodeSchool/workshop-template)
+_to create a new workshop you are welcome to use the [Workshop Template](https://github.com/WildCodeSchool/workshop-template)_
 
 - [SQL workshop 1](./ateliers/sql/sql.md)
 
