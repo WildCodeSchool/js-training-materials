@@ -70,6 +70,9 @@ Who added this resource with mail / slack contact
   - [EN](./dojos/s13-bdd-back-front/sujet-en.md)
   
 ### Workshops
+
+_to create a new workshop you are welcome to use the [Workshop Template](https://github.com/WildCodeSchool/workshop-template)
+
 - [SQL workshop 1](./ateliers/sql/sql.md)
 
 ### Live Coding
