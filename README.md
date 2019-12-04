@@ -47,6 +47,16 @@ Who added this resource with mail / slack contact
 - Create the folder and the md file if they don't exist
 - Add the link to the deployed project link with the campus name
 
+### Recommended tools
+
+#### To create a new workshop
+
+Use this [repository](https://github.com/WildCodeSchool/workshop-template) to create a new workshop with our visual identity only by editing a markdown file !
+
+#### To create new exercises
+
+Use this [repository](https://github.com/WildCodeSchool/js-exercises-boilerplate) to create test driven exercises using Jest !
+
 ## Resources
 
 ### Projects Boilerplates
