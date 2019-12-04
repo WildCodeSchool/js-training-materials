@@ -92,6 +92,8 @@ _to create a new workshop you are welcome to use the [Workshop Template](https:/
 
 ### Slides
 
+- [Sequelize](https://docs.google.com/presentation/d/1gNfuoZcDwAiln8-sStmQZ99SnR9mqhPobMdYceXlvgg/edit#slide=id.p)
+
 ## Portfolio
 
 ### Hackathons
