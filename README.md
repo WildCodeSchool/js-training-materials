@@ -94,6 +94,10 @@ _to create a new workshop you are welcome to use the [Workshop Template](https:/
 
 - [Sequelize](https://docs.google.com/presentation/d/1gNfuoZcDwAiln8-sStmQZ99SnR9mqhPobMdYceXlvgg/edit#slide=id.p)
 
+### Videos
+
+- [Playlists Toulouse JS/React](https://github.com/WildCodeSchool/ressources-js-react-0219)[FR] Index vidéos JS/DOM/React/Node
+
 ## Portfolio
 
 ### Hackathons
