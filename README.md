@@ -83,7 +83,8 @@ Use this [repository](https://github.com/WildCodeSchool/js-exercises-boilerplate
 
 _to create a new workshop you are welcome to use the [Workshop Template](https://github.com/WildCodeSchool/workshop-template)_
 
-- [SQL workshop 1](./ateliers/sql/sql.md)
+- [SQL workshop 1](./workshops/sql/sql.md)
+- [Discover immutability](./workshops/immutability.md)
 
 ### Live Coding
 
