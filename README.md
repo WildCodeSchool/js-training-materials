@@ -78,6 +78,9 @@ Use this [repository](https://github.com/WildCodeSchool/js-exercises-boilerplate
 - Christmas (express, mysql + frontend)
   - [FR](./dojos/s13-bdd-back-front/sujet1-2.md)
   - [EN](./dojos/s13-bdd-back-front/sujet-en.md)
+
+- Reducers
+  - [filter Games reducer](./dojos/algorithm/games-reducer.md)
   
 ### Workshops
 
