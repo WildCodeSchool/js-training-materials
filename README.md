@@ -102,6 +102,10 @@ _to create a new workshop you are welcome to use the [Workshop Template](https:/
 
 - [Playlists Toulouse JS/React](https://github.com/WildCodeSchool/ressources-js-react-0219)[FR] Index vidéos JS/DOM/React/Node
 
+### Tech interviews
+
+- [Do you know ?](interview-materials/fr_questions-tech.md) [FR]
+
 ## Portfolio
 
 ### Hackathons
