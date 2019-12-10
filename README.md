@@ -81,7 +81,12 @@ Use this [repository](https://github.com/WildCodeSchool/js-exercises-boilerplate
 
 - Reducers
   - [filter Games reducer](./dojos/algorithm/games-reducer.md)
-  
+
+### Katas
+
+- Database modelisation :
+  - [Kata 1](https://github.com/WildCodeSchool/workshop-kata-db-modeling1)
+
 ### Workshops
 
 _to create a new workshop you are welcome to use the [Workshop Template](https://github.com/WildCodeSchool/workshop-template)_
