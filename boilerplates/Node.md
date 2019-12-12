@@ -9,11 +9,20 @@ Original release: 24/11/2019
 
 ## Description
 You want to start a debuggable Node Javascript/typescript project with/without linter configured.
-You fork the repository and merge into master the branch selected. 
+You just have to fork the repository and merge into master the selected branch.
+
+In that boilerplate you will find: 
+
+#### Node Javascript: Run/Dev/Debug
+#### Node Javascript + Linter:
+#### Node Typescript: Run/Build/Dev/Debug
+#### Node Typescript + Linter: 
+#### Node Typescript + 3-Tier + mysql: 
+#### Node Typescript + Abstract 3-tier + mysql: 
 
 ## Requirements
 - Advanced resources are for Project 3 period
-- Explain to students how to `auto attach` debugger into vscode.
+- Explain to students how to `auto attach` debugger into vscode (ctrl+shift+p) "auto ..."
 
 ## Author
 hugo@wildcodeschool.fr
