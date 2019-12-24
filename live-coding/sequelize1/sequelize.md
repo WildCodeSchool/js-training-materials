@@ -1,4 +1,4 @@
-# sqlQueries
+# Sequelize lvl 1
 
 Sequelize lvl 1 
 
@@ -14,11 +14,11 @@ There is also a live [FR].
 
 
 ## Folders and files
-config / containing config.json where you set the connexion with your database
-models / containing your two models User and Post
-routes / containing the routes you use for User and Post models
-data.js / used for injecting data into User model by bulkCreate(data) in routes/user.js
-index.js / used as an entry point
+[config](./sequelizelvl1/config/config.json) / containing config.json where you set the connexion with your database
+[models](./sequelizelvl1/models) / containing your two models User and Post
+[routes](./sequelizelvl1/routes) / containing the routes you use for User and Post models
+[data.js](./sequelizelvl1/data.js) / used for injecting data into User model by bulkCreate(data) in routes/user.js
+[index.js](./sequelizelvl1/index.js) / used as an entry point
 
 
 ## Commands
@@ -33,7 +33,7 @@ nodemon index.js
 ## Links
 
 [Live sequelize lvl 1]() incoming
-[Repository](https://github.com/Chojiu15/SequelizeLvl1)
+[Repository]()
 [Git history index.js](https://github.githistory.xyz/Chojiu15/SequelizeLvl1/blob/master/index.js)
 
 
