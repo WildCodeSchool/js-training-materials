@@ -102,6 +102,7 @@ _to create a new workshop you are welcome to use the [Workshop Template](https:/
 ### Videos
 
 - [Playlists Toulouse JS/React](https://github.com/WildCodeSchool/ressources-js-react-0219)[FR] Index vidéos JS/DOM/React/Node
+- [Manual VPS setup for Node.js/React deployment](https://www.youtube.com/watch?v=ERDcJ5qGSsQ&list=PLVBvhDBS_eGVUGFOnM9OO3InCvGPFeJ15&index=10&t=5s). Describes how to secure the server, install Nginx and MySQL, phpMyAdmin, Let's Encrypt certificates, deploy the app (in French). This is the "old way" and you should rather consider using [Dokku](http://dokku.viewdocs.io/dokku/).
 
 ### Tech interviews
 
