@@ -69,7 +69,7 @@ Use this [repository](https://github.com/WildCodeSchool/js-exercises-boilerplate
   - [fizzBuzz](./dojos/algorithm/fizzbuzz.md)
   - [toCamelCase](./dojos/algorithm/to-camel-case.md)
 
-- Database modelisation :
+- Database modelisation:
   - [Centre de loisir](./dojos/analyse/centre-de-loisir.md)[FR]
   - [Leisure Center](./dojos/analyse/leisure-center.md)
   - [Compagnie Aérienne](./dojos/analyse/compagnie-aerienne.md)[FR]
