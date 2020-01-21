@@ -1,7 +1,8 @@
 # Authentification JWT
 
 ## Link
-- [Atelier](https://github.com/WildCodeSchool/jwt-authentication-workshop)
+- [Atelier](https://wildcodeschool.github.io/jwt-authentication-workshop)
+- [Github](https://github.com/WildCodeSchool/jwt-authentication-workshop)
 - [Boilerplate](https://github.com/WildCodeSchool/jwt-authentication-workshop-source)
 
 ## Description
