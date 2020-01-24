@@ -68,6 +68,7 @@ Use this [repository](https://github.com/WildCodeSchool/js-exercises-boilerplate
 - Algorithms
   - [fizzBuzz](./dojos/algorithm/fizzbuzz.md)
   - [toCamelCase](./dojos/algorithm/to-camel-case.md)
+  - [scores](./dojos/algorithm/scores.md)
 
 - Database modelisation:
   - [Centre de loisir](./dojos/analyse/centre-de-loisir.md)[FR]
