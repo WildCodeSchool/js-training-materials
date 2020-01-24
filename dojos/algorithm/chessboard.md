@@ -1,4 +1,4 @@
-# How to debug react app
+# Chessboard
 
 ## Link
 [Dojo Chessboard](https://github.com/WildCodeSchool/dojo-js-chessboard)

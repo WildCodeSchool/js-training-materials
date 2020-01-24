@@ -1,4 +1,4 @@
-# How to debug react app
+# Scores
 
 ## Link
 [Dojo Scores](https://github.com/WildCodeSchool/dojo-js-scores)
