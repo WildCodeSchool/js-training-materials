@@ -127,3 +127,4 @@ _to create a new workshop you are welcome to use the [Workshop Template](https:/
 
 - [Projects 2 September 2019](./portfolio/projects/sept-2019-project-2.md)
 - [Projects 2 February 2019](./portfolio/projects/feb-2019-project-2.md)
+- [Projects 3 September 2019](./portfolio/projects/sept-2019-project-3.md)
