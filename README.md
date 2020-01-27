@@ -114,7 +114,7 @@ _to create a new workshop you are welcome to use the [Workshop Template](https:/
 ### Tech interviews
 
 - [Do you know ?](interview-materials/fr_questions-tech.md) [FR]
-- [List of top 500 ReactJS Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions#what-is-the-lifecycle-methods-order-in-mounting)
+- [List of top 500 ReactJS Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
 - [List of top 50 NodeJS Interview Questions & Answers](https://www.onlineinterviewquestions.com/node-js-interview-questions/)
 
 ## Portfolio
