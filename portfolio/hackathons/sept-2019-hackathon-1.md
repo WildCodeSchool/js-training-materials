@@ -7,4 +7,7 @@ Halloween
 
 ## Realisations
 
-* link - campus
+* [Top 5](https://sad-torvalds-9afc53.netlify.com/) - Lisbon
+* [Affinity](https://pedantic-blackwell-c1c465.netlify.com/) - Lisbon
+* [Yoder](https://elegant-bartik-6f805c.netlify.com/) - Lisbon
+* [The Master Of Love](https://peaceful-payne-574498.netlify.com/) - Lisbon
