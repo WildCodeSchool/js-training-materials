@@ -10,3 +10,8 @@
 - [Wild Fighting](https://wildfighting.netlify.com/) - Tours
 - [Wild Space](https://wildspace.netlify.com/) - Tours
 - [Should I Run](https://should-i-run.netlify.com) - London
+- [THE Trivia Game](https://pensive-spence-cc1516.netlify.com/) - Lisbon
+- [Tender](https://alexandrapatriciosantos.github.io/Tender/) - Lisbon
+- [Trivia Quizz](https://unruffled-babbage-c8682e.netlify.com/) - Lisbon
+- [Super Trivia Game](https://amazing-dijkstra-1349b5.netlify.com/) - Lisbon
+- [Spelling Masta](https://spelling-masta.herokuapp.com/) - Lisbon
