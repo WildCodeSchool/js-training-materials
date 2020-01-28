@@ -69,6 +69,7 @@ Use this [repository](https://github.com/WildCodeSchool/js-exercises-boilerplate
   - [fizzBuzz](./dojos/algorithm/fizzbuzz.md)
   - [toCamelCase](./dojos/algorithm/to-camel-case.md)
   - [scores](./dojos/algorithm/scores.md)
+  - [showEmailCount](./dojos/algorithm/show-email-count.md)
   - [chessboard](./dojos/algorithm/chessboard.md)
 
 - Database modelisation:
