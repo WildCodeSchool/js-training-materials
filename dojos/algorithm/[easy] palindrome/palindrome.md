@@ -24,8 +24,9 @@ palindrome("rotor!");
 
 ## Requirements
 - Pass all the tests
-- To run the tests: `mocha myFile.tests.js`
+- To run the tests: `mocha myFile.test.js`
 
 ## Author
 diogo@wildcodeschool.pt
+
 [Slack me](https://app.slack.com/client/T6SG2QGG2/GHP34QVV3/user_profile/UHCFSA63T)
