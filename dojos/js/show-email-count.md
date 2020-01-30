@@ -1,10 +1,7 @@
 # Show Email Count
 
-## Link
-[showEmailCount dojo](https://github.com/WildCodeSchool/dojo-js-showemailcount)
-
 ## Release / Update date
-**28/01/2020**
+**30/01/2020**
 
 ## Description
 Show a user-friendly message for an email count.
