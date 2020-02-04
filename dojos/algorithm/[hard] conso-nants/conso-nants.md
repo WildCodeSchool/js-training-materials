@@ -9,19 +9,19 @@ Write a function 'hyphenate', that takes a string and returns a string, **separa
 Examples:
 ```javascript
 hyphenate('boom');
-returns 'boom'
+// returns 'boom'
 
 hyphenate('hyphen');
-returns 'hyp-hen'
+// returns 'hyp-hen'
 
 hyphenate('hello world');
-returns 'hel-lo wor-l-d'
+// returns 'hel-lo wor-l-d'
 
 hyphenate('Hello World');
-returns 'Hel-lo Wor-l-d'
+// returns 'Hel-lo Wor-l-d'
 
 hyphenate(Internationalization);
-returns 'In-ter-nationalization'
+// returns 'In-ter-nationalization'
 ```
 
 ## Requirements
