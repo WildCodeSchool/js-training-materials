@@ -1,4 +1,3 @@
-
 # Find the smallest prefixes
 
 ## Release / Update date
