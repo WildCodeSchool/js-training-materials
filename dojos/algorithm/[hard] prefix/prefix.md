@@ -1,5 +1,5 @@
 
-# Find the Prefixes
+# Find the smallest prefixes
 
 ## Release / Update date
 **05/02/2020**
@@ -27,12 +27,3 @@ prefix(['rice', 'rivet'])
 diogo@wildcodeschool.pt
 
 [Slack me](https://app.slack.com/client/T6SG2QGG2/GHP34QVV3/user_profile/UHCFSA63T)
-
-
-accepts an array of strings
-returns an array of strings
-the ouput strings are the smallest suffix needed to tell the words apart
-e.g.:
-['one', 'two'] -> ['o', 't']
-['arch', 'animal'] -> ['ar', 'an']
-['rice', 'rivet'] -> ['ric', 'riv']
