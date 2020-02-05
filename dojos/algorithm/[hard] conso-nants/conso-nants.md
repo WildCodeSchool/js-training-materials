@@ -20,7 +20,7 @@ hyphenate('hello world');
 hyphenate('Hello World');
 // returns 'Hel-lo Wor-l-d'
 
-hyphenate(Internationalization);
+hyphenate('Internationalization');
 // returns 'In-ter-nationalization'
 ```
 
