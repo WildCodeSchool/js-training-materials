@@ -1,0 +1,18 @@
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#gif-list {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 10px 5px;
+}
+
+#gif-list img {
+    margin: 0 5px;
+}
