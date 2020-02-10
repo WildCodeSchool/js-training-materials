@@ -8,7 +8,10 @@ This dojo is about manipulating the DOM using javascript. The user must be able 
 
 i.e.: if the user selects `cats` he/she sees only cat GIFs.
 
-**DO NOT** edit `index.html` or `style.css`. **Work only on `index.js`**
+**Work only on `index.js`**, **DO NOT** edit `index.html`, `style.css` or any other file. 
+
+### Note:
+To run a server `cd` into the folder `[easy] gifDropdown` and run `live-server`.
 
 ## Requirements
 - selecting a new value i the dropdown shows GIFs of that category only.
