@@ -33,7 +33,7 @@ Calculate the sum of the price of items in `allItems` and insert it in `#cartTot
 
 Call `render` when the page loads.
 
-5. create a function `itemElement` that **takes and item object** and returns a **HTML element** that looks like this:
+5. create a function `itemElement` that **takes an item object** and returns a **HTML element** that looks like this:
 ```html
 <li>
     <p>Used car mat, 9€</p>
@@ -64,8 +64,8 @@ Call `render` at the end;
 To run a server `cd` into this folder and run `live-server`.
 
 ## Requirements
-- selecting a new value i the dropdown shows GIFs of that category only.
-- when the page loads cat GIFs should be showing.
+- JS variables, functions.
+- DOM manipulation.
 
 ## Author
 diogo@wildcodeschool.pt
