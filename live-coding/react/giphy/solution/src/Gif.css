@@ -1,0 +1,12 @@
+.gif {
+    width: 100%;
+}
+
+.gif-selected {
+    width: 65vw;
+}
+
+.gif-selected img {
+    width: 100%;
+}
+
