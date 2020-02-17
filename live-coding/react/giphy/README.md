@@ -1,4 +1,4 @@
-# Vanila JS markeplace
+# React Giphy
 
 ## Release / Update date
 **17/02/2020**
