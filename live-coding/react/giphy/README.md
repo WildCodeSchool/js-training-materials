@@ -5,6 +5,7 @@
 
 ## Description
 Create a page that will display a list of gifs and show the selected gif.
+![wireframe](./react-ghiphy.jpg)
 
 1. create the components according to the [diagram](./react-giphy-diagram.jpg):
 ![diagram](./react-giphy-diagram.jpg)
