@@ -95,6 +95,7 @@ _to create a new workshop you are welcome to use the [Workshop Template](https:/
 - [Discover immutability](./workshops/immutability.md)
 - [Discover Git/Github](https://wildcodeschool.github.io/workshop-git/)
 - [JavaScript functions](./workshops/js/functions.md)
+- [Search and Dev](./workshops/searchanddev.md)
 
 ### Live Coding
 
