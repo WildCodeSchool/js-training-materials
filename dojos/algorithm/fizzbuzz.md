@@ -1,4 +1,4 @@
-# How to debug react app
+# Fizzbuzz Dojo
 
 ## Link
 [Dojo FizzBuzz](https://github.com/WildCodeSchool/dojo-js-fizzbuzz)
