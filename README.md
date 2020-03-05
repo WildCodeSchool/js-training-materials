@@ -103,7 +103,7 @@ _to create a new workshop you are welcome to use the [Workshop Template](https:/
 - [Fetch Pokemon API](./live-coding/react/fetch-pokemon-api.md)
 - [React custom Hooks](./live-coding/react/useForm-hooks/useForm.md)
 - [Sequelize 1](./live-coding/sequelize1/sequelize.md)
-- [ES6 Helper Methods](./live-coding/es6-helper-methods/es6-helper-methods.md)
+- [ES6 Helper Methods](./live-coding/es6-helper-methods/)
 
 
 ### Slides
