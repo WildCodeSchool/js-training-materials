@@ -12,3 +12,4 @@ Halloween
 * [Yoder](https://elegant-bartik-6f805c.netlify.com/) - Lisbon
 * [The Master Of Love](https://peaceful-payne-574498.netlify.com/) - Lisbon
 * [Star Love](https://wildcodeschool.github.io/bucharest-hackathon1-19nov-gr1/) - Bucharest
+* [Star Love London](https://star-love-ldn.netlify.com/) - London
