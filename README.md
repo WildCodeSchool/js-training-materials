@@ -94,6 +94,7 @@ _to create a new workshop you are welcome to use the [Workshop Template](https:/
 - [SQL workshop 1](./workshops/sql/sql.md)
 - [Discover immutability](./workshops/immutability.md)
 - [Discover Git/Github](https://wildcodeschool.github.io/workshop-git/)
+- [Console Workshop](./workshops/console.md)
 - [JavaScript functions](./workshops/js/functions.md)
 - [Search and Dev](./workshops/searchanddev.md)
 
