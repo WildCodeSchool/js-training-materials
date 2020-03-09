@@ -95,7 +95,6 @@ _to create a new workshop you are welcome to use the [Workshop Template](https:/
 - [Discover immutability](./workshops/immutability.md)
 - [Discover Git/Github](https://wildcodeschool.github.io/workshop-git/)
 - [Console Workshop](./workshops/console.md)
-- [JavaScript functions](./workshops/js/functions.md)
 - [Search and Dev](./workshops/searchanddev.md)
 
 ### Live Coding
@@ -104,6 +103,7 @@ _to create a new workshop you are welcome to use the [Workshop Template](https:/
 - [React custom Hooks](./live-coding/react/useForm-hooks/useForm.md)
 - [Sequelize 1](./live-coding/sequelize1/sequelize.md)
 - [ES6 Helper Methods](./live-coding/es6-helper-methods/)
+- [JavaScript functions](./live-coding/js/functions.md)
 
 
 ### Slides
