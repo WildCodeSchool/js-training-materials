@@ -63,30 +63,37 @@ Use this [repository](https://github.com/WildCodeSchool/js-exercises-boilerplate
 
 - [NodeJS boilerplate - Project 3](./boilerplates/Node.md)
 - [Express/React monorepo boilerplate - Project 3](https://github.com/WildCodeSchool/project3-express-react-monorepo)
+- [React ESLint (Prettier + Airbnb) with ESLint Action](https://github.com/Karnak19/create-react-app)
 
 ### Dojos
+
 - Algorithms
+
   - [fizzBuzz](./dojos/algorithm/fizzbuzz.md)
   - [toCamelCase](./dojos/algorithm/to-camel-case.md)
   - [scores](./dojos/algorithm/scores.md)
   - [chessboard](./dojos/algorithm/chessboard.md)
 
 - Database modelisation:
+
   - [Centre de loisir](./dojos/analyse/centre-de-loisir.md)[FR]
   - [Leisure Center](./dojos/analyse/leisure-center.md)
   - [Compagnie Aérienne](./dojos/analyse/compagnie-aerienne.md)[FR]
   - [Airline Company](./dojos/analyse/airline-company.md)
 
 - React
+
   - [React Debug](./dojos/react/debug-react-app.md)
 
 - Christmas (express, mysql + frontend)
+
   - [FR](./dojos/s13-bdd-back-front/sujet1-2.md)
   - [EN](./dojos/s13-bdd-back-front/sujet-en.md)
 
 - Reducers
+
   - [filter Games reducer](./dojos/algorithm/games-reducer.md)
-  
+
 ### Workshops
 
 _to create a new workshop you are welcome to use the [Workshop Template](https://github.com/WildCodeSchool/workshop-template)_
@@ -104,7 +111,6 @@ _to create a new workshop you are welcome to use the [Workshop Template](https:/
 - [Sequelize 1](./live-coding/sequelize1/sequelize.md)
 - [ES6 Helper Methods](./live-coding/es6-helper-methods/)
 - [JavaScript functions](./live-coding/js/functions.md)
-
 
 ### Slides
 
