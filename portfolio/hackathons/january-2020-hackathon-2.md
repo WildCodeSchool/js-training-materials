@@ -8,7 +8,7 @@ Each campus organized the hackathon with clients on a specific theme/topic.
 
 ### Dubsterdam (Dublin X Amsterdam) in collaboration with [AskPhill](https://askphill.com/)
 
-- [Bookies](https://priceless-minsky-c1c2c8.netlify.app/) - Books eCommerce platform
+- [Bookies](https://dubsterdam-hackathon-bookies.netlify.app/) - Books eCommerce platform
 - [Borlin](https://borlin.netlify.app/) - Fashion eCommerce platform
 
 ### Milan in collaboration with [Sharewood](https://sharewood.io)
