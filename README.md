@@ -111,6 +111,7 @@ _to create a new workshop you are welcome to use the [Workshop Template](https:/
 - [Sequelize 1](./live-coding/sequelize1/sequelize.md)
 - [ES6 Helper Methods](./live-coding/es6-helper-methods/)
 - [JavaScript functions](./live-coding/js/functions.md)
+- [Deno simple Rest API](./live-coding/deno/dead-simple-rest-api/README.md)
 
 ### Slides
 
