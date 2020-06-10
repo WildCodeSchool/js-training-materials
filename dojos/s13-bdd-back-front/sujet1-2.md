@@ -9,7 +9,7 @@ C’est bientôt Noël et le père Noël demande une application pour que les en
 Si un enfant n'est pas sage, le père Noël pourra supprimer ces cadeaux. 
 
 **Bonus**
-> Plus noël approche, plus les timings deviennent serrés, il va bientôt commencer l'exploitation de centaines de lutins(nom,prénom). Un lutin travaille seul sur chaque cadeau et qu'en il a finis il passe au cadeau suivant. Attention il faudra surement rajouter un statut todo/doing/done aux cadeaux.
+> Plus noël approche, plus les timings deviennent serrés, il va bientôt commencer l'exploitation de centaines de lutins(nom,prénom). Un lutin travaille seul sur chaque cadeau et quand il a finis il passe au cadeau suivant. Attention il faudra surement rajouter un statut todo/doing/done aux cadeaux.
 
  1. Modélisation BDD
  2. Création BDD  _(Vous ajouterez manuellement des enfants/cadeaux/bonus-lutin dans la base)_
