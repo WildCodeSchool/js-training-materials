@@ -6,5 +6,10 @@
 | Biarritz | Basile     | [Star Burgers](https://wildcodeschool.github.io/btz_p1_star-burgers/) | [GH](https://github.com/wildcodeschool/btz_p1_star-burgers) | 3 stars Michelin restaurant, focused on hamburgers |
 | Biarritz | Basile     | [LavaScript](https://wildcodeschool.github.io/btz_p1_js-doc/)         | [GH](https://github.com/wildcodeschool/btz_p1_js-doc)       | JavaScript documentation on firsts weeks content   |
 | Biarritz | Basile     | [Wilder Book](https://wildcodeschool.github.io/btz_p1_wilder-book/)   | [GH](https://github.com/wildcodeschool/btz_p1_wilder-book)  | This session wilder book                           |
+| Nantes   | Bastien    | [Santa](https://baptiste-gfy.github.io/calendrier_avant/)             | [GH](https://github.com/baptiste-gfy/calendrier_avant/)     | Jeu de quizz basé sur le calendrier de l'avent     |
+| Nantes   | Bastien    | [Squirrel](https://rouxxi.github.io/AdopteUnEcureuil.github.io/)      | [GH](https://github.com/rouxxi/AdopteUnEcureuil.github.io/) | Adoptez un écureuil                                |
+| Nantes   | Bastien    | [Player Wild](https://maxime-monjal.github.io/Player-wild/)           | [GH](https://github.com/maxime-monjal/Player-wild/)         | Site de test de jeux de société                    |
+| Nantes   | Bastien    | [Pirates de l'Île](https://thomas37000.github.io/ileDeNantes/)        | [GH](https://github.com/thomas37000/ileDeNantes/)           | Présentation de l'Île de Nantes                    |
+| Nantes   | Bastien    | [24H](https://nicholas570.github.io/24h/html/home.html)               | [GH](https://github.com/nicholas570/24h/)                   | Tout les les 24 heures du Mans                     |
 | Campus   | Trainer    | []()                                                                  | [GH]()                                                      | <desc>                                             |
 | Campus   | Trainer    | []()                                                                  | [GH]()                                                      | <desc>                                             |
