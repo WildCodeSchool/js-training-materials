@@ -12,5 +12,6 @@
 | Nantes   | Bastien    | [Pirates de l'Île](https://thomas37000.github.io/ileDeNantes/)        | [GH](https://github.com/thomas37000/ileDeNantes/)           | Présentation de l'Île de Nantes                    |
 | Nantes   | Bastien    | [24H](https://nicholas570.github.io/24h/html/home.html)               | [GH](https://github.com/nicholas570/24h/)                   | Tout sur les 24 heures du Mans                     |
 | La Loupe | Xavier     | [Monaco](https://lebic-monaco.netlify.app/)                           | [GH](https://github.com/will142/LeBic-Monaco)               | Blog sur la ville de Monaco                        |
+| La Loupe | Xavier     | [My trip to Tokyo](https://lafondmael.github.io/My-trip-to-tokyo/)    | [GH](https://github.com/LafondMael/My-trip-to-tokyo/tree/master) | Blog sur la ville de Tokyo                                             |
 | Campus   | Trainer    | []()                                                                  | [GH]()                                                      | <desc>                                             |
 | Campus   | Trainer    | []()                                                                  | [GH]()                                                      | <desc>                                             |
