@@ -11,5 +11,6 @@
 | Nantes   | Bastien    | [Player Wild](https://maxime-monjal.github.io/Player-wild/)           | [GH](https://github.com/maxime-monjal/Player-wild/)         | Site de test de jeux de société                    |
 | Nantes   | Bastien    | [Pirates de l'Île](https://thomas37000.github.io/ileDeNantes/)        | [GH](https://github.com/thomas37000/ileDeNantes/)           | Présentation de l'Île de Nantes                    |
 | Nantes   | Bastien    | [24H](https://nicholas570.github.io/24h/html/home.html)               | [GH](https://github.com/nicholas570/24h/)                   | Tout sur les 24 heures du Mans                     |
+| La Loupe | Xavier     | [Monaco](https://lebic-monaco.netlify.app/)                           | [GH](https://github.com/will142/LeBic-Monaco)               | Blog sur la ville de Monaco                        |
 | Campus   | Trainer    | []()                                                                  | [GH]()                                                      | <desc>                                             |
 | Campus   | Trainer    | []()                                                                  | [GH]()                                                      | <desc>                                             |
