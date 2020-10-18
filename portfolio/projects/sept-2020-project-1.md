@@ -1,3 +1,4 @@
+
 # September 2020 - Project 1
 
 | Campus   | Instructor | Link                                                                  | Repository                                                  | Description                                        |
@@ -19,4 +20,9 @@
 | Lisbon   | Connor     | [Fixee](https://artur-59.github.io/Project-1/)                         | [GH](https://github.com/artur-59/Project-1)                | <desc>  Handyman service platform                  |
 | Lisbon   |  Connor    | [Revamp-Universo-Costura]()                                            | [GH](https://github.com/mabambres/Revamp-Universo-Costura) | <desc>  Revamp of sewing and craftsmanship website |
 | Lisbon   | Connor     | [Easy_Tech]()                                                          | [GH](https://github.com/LuisClara92/project1_Easy_Tech)    | <desc>  Startup selling raspberry Pi's             |
+| Bruxelles   | Pierre    | [Tech it easy groupe 1](https://killianfrappartdev.github.io/tech-it-easy/)                                                                  | [GH](https://github.com/KillianFrappartDev/tech-it-easy)                                                      | Tech it easy                                            |
+| Bruxelles   | Pierre    | Tech it easy groupe 2                                                               | [GH](https://github.com/KacperSokolowskiDev/Tech-It-Easy-Project)                                                      | <desc>                                             |
+| Bruxelles   | Pierre    | Tech it easy Landing page groupe 3                                                              | [GH](https://github.com/Greg155/TechITeasy-Landingpage)                                                      | <desc>                                             |
+| Bruxellees   | Pierre    | Tech it easy  groupe 4                                                             | [GH](https://github.com/AntoineMeunier52/tech-it-easy-)                                                      | <desc>                                             |
+| Campus   | Trainer    | []()                                                                  | [GH]()                                                      | <desc>                                             |
 | Campus   | Trainer    | []()                                                                  | [GH]()                                                      | <desc>                                             |
