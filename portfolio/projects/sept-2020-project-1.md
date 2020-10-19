@@ -28,5 +28,8 @@
 | Orléans | Louis     | Ahri (League of Legends) | [GH](https://github.com/TheoAt/CV_AHRI_WCS)    | Ahri's resume  
 | Orléans | Louis     | Bender (Futurama) | [GH](https://github.com/florianb45160/Project1-CVBENDER)    | Bender's resume
 | Orléans | Louis     | Marty McFLy (Back to the Future) | [GH](https://github.com/PazzeG/Projet1-CV/tree/master)    | Marty McFly's resume
+| Bordeaux | Emeline     | [Bistro Regent](https://github.com/LoicLabaisse/Bistro-Regent/)   | [GH](https://github.com/LoicLabaisse/Bistro-Regent)  | Restaurant Bistro Regent    |
+| Bordeaux | Emeline     | [Timara Photographie](https://github.com/Vylis/project1rrjf)   | [GH](https://github.com/Vylis/project1rrjf)  | Site photographe Timara 
+| Bordeaux | Emeline     | [Punta Cana](https://github.com/PolWCS/punta-cana-website)   | [GH](https://github.com/PolWCS/punta-cana-website)  | Site d'un bar Punta Cana Bar 
 | Campus   | Trainer    | []()                                                                  | [GH]()                                                      | <desc>                                             |
 | Campus   | Trainer    | []()                                                                  | [GH]()                                                      | <desc>                                             |
