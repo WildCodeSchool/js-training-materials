@@ -31,5 +31,6 @@
 | Bordeaux | Emeline     | [Bistro Regent](https://github.com/LoicLabaisse/Bistro-Regent/)   | [GH](https://github.com/LoicLabaisse/Bistro-Regent)  | Restaurant Bistro Regent    |
 | Bordeaux | Emeline     | [Timara Photographie](https://github.com/Vylis/project1rrjf)   | [GH](https://github.com/Vylis/project1rrjf)  | Site photographe Timara 
 | Bordeaux | Emeline     | [Punta Cana](https://github.com/PolWCS/punta-cana-website)   | [GH](https://github.com/PolWCS/punta-cana-website)  | Site d'un bar Punta Cana Bar 
+| Bordeaux | Emeline     | [Timara Photographie 2](https://github.com/JonathanArnould/WCS_Projet_1)   | [GH](https://github.com/JonathanArnould/WCS_Projet_1)  | Site photographe Timara 2 
 | Campus   | Trainer    | []()                                                                  | [GH]()                                                      | <desc>                                             |
 | Campus   | Trainer    | []()                                                                  | [GH]()                                                      | <desc>                                             |
