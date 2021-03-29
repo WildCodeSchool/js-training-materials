@@ -11,5 +11,8 @@
 | Nantes     | Bastien       | [4 Spirited Guys](http://www.apoppe.com/)                                                                           | [GH](https://github.com/Poppe-A/4-spirited-guys) 
 | Lisbon     | Connor       | [CoffeTime](https://coffeetime-wcs.github.io/CoffeeTime/)                           | [GH]()                                                        |
 | Lisbon     | Connor       | [Studio Alma](https://studio-alma.netlify.app/index.html)                           | [GH]()                                                        |
+| Berlin     | Pierre       | [House of To Be](https://okankarakaya.github.io/house-of-tobe/)                           | [GH]()                                                        |
+| Berlin     | Pierre       | [Food Loops](https://lucamilanese90.github.io/foodLoops/index.html)                           | [GH]()                                                        |
+| Berlin     | Pierre       | [Arigato](https://may-moff.github.io/arigato/)                           | [GH]()                                                        |
 | Campus     | Trainer       | []()                                                                        | [GH]()                                                            | <desc>                                                 |
 | Campus     | Trainer       | []()                                                                        | [GH]()                                                            | <desc>                                                 |
