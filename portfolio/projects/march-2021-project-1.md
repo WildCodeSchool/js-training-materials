@@ -13,14 +13,10 @@
 | Lisbon     | Connor       | [Studio Alma](https://studio-alma.netlify.app/index.html)                           | [GH]()                                                        |
 | Berlin     | Pierre       | [House of To Be](https://okankarakaya.github.io/house-of-tobe/)                           | [GH]()                                                        |
 | Berlin     | Pierre       | [Food Loops](https://lucamilanese90.github.io/foodLoops/index.html)                           | [GH]()                                                        |
-| Berlin     | Pierre       | [Arigato](https://may-moff.github.io/arigato/)                           | [GH]()    
-| Remote FR  | Katalina     | [Wilders2021](https://compassionate-mclean-5552f0.netlify.app/
-)                           | [GH](https://github.com/BaptisteGrias/Project1)
-| Remote FR  | Katalina     | [Travel66] [GH] (https://github.com/SylvainLaconi/Travel-66)
-)
-|Remote FR   | Katalina     | [AdoptUnWilder]()
-)                           | [GH] (https://github.com/Palabbe/adopt-un-wilder)  
-|Remote FR   | Katalina     | [SAKG] (https://reverent-meitner-6ead5a.netlify.app/index.html)
-                            | [GH] (https://github.com/SophieTopart/WCS-REM-Project1-SAKG)                                                    |
+| Berlin     | Pierre       | [Arigato](https://may-moff.github.io/arigato/)                           | [GH]()
+| Remote FR   | Katalina        | [Wilders2021](https://compassionate-mclean-5552f0.netlify.app/)                                 | [GH](https://github.com/BaptisteGrias/Project1)                     | Portfolio        
+| Remote FR   | Katalina        | [Travel66]()                                 | [GH](https://github.com/SylvainLaconi/Travel-66)                     | Travel Agency
+| Remote FR   | Katalina        | [AdoptUnWilder]()                                 | [GH](https://github.com/Palabbe/adopt-un-wilder)                     | Portfolio
+| Remote FR   | Katalina        | [SAKG](https://reverent-meitner-6ead5a.netlify.app/index.html)                                 | [GH](https://github.com/SophieTopart/WCS-REM-Project1-SAKG)                     | Portfolio                                                 |
 | Campus     | Trainer       | []()                                                                        | [GH]()                                                            | <desc>                                                 |
 | Campus     | Trainer       | []()                                                                        | [GH]()                                                            | <desc>                                                 |
