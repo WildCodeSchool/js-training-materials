@@ -1,18 +1,10 @@
-# March 2021 - Project 1
+# March 2021 - Project 2
 
 | Campus     | Instructor    | Link                                                                        | Repository                                                        | Description                                            |
 | ---------- | ------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------ |
-| La Loupe   | Xavier        | Kaamelott                                 | [GH](https://github.com/dlandouard/projetKaamelott)                     | Blog Kaamelott                            |
-| La Loupe   | Xavier        | Light Painting                                 | [GH](https://github.com/Benjamin-Moneta/Les-zartistes)             | Blog Light Painting                            |
-| Nantes     | Bastien       | [Kaamelott](https://jbwcs.github.io/Kaamelott/)                                                                     | [GH](https://github.com/JbWCS/Kaamelott)                                                            |                                                |
-| Nantes     | Bastien       | [VisitNantes](https://teasmade.github.io/VisitNantes/)                                                              | [GH](https://github.com/teasmade/VisitNantes)                                                            |                                                |
-| Nantes     | Bastien       | [Blog Nantes](https://pbouhours.github.io/BienvenueNantes.github.io/)                                                | [GH](https://github.com/PBouhours/Projet1-NantesWebSite)                                                            |                                                |
-| Nantes     | Bastien       | [Run - Boulangerie](https://vgaugler.github.io/RunBoulangerie-HTML-CSS-JS/index.html)                               | [GH](https://github.com/Crocoya/Projet-1-Run)                                                            |                                                |
-| Nantes     | Bastien       | [4 Spirited Guys](http://www.apoppe.com/)                                                                           | [GH](https://github.com/Poppe-A/4-spirited-guys) 
-| Lisbon     | Connor       | [CoffeTime](https://coffeetime-wcs.github.io/CoffeeTime/)                           | [GH]()                                                        |
-| Lisbon     | Connor       | [Studio Alma](https://studio-alma.netlify.app/index.html)                           | [GH]()                                                        |
-| Berlin     | Pierre       | [House of To Be](https://okankarakaya.github.io/house-of-tobe/)                           | [GH]()                                                        |
-| Berlin     | Pierre       | [Food Loops](https://lucamilanese90.github.io/foodLoops/index.html)                           | [GH]()                                                        |
-| Berlin     | Pierre       | [Arigato](https://may-moff.github.io/arigato/)                           | [GH]()                                                        |
+| Nantes | Bastien | [Marguerite - Autopartage](https://marguerite-autopartage.netlify.app/) | [GH](https://github.com/WildCodeSchool/nts-js-202103-p2-autopartage) | Application de location de véhicule partagés sur Nantes |
+| Nantes | Bastien | [Biclooapp](https://infallible-murdock-c2ad9d.netlify.app/) | [GH](https://github.com/WildCodeSchool/nts-js-202103-p2-bicloo) | Application incitant à déposer les vélos Bicloo dans les stations vides de Nantes |
+| Nantes | Bastien | [Magniolia in Nantes](https://magnoliainnantes.netlify.app/) | [GH](https://github.com/WildCodeSchool/nts-js-202103-p2-herbier) | Application visant à découvrir et "capturer" les magolias dans les parcs Nantais |
+| Nantes | Bastien | [NAOTRI](https://wcsnaotri.netlify.app/) | [GH](https://github.com/WildCodeSchool/nts-js-202103-p2-recyclage) | Application permettant de trier et recycler ses déchets de façon gamifiée |
 | Campus     | Trainer       | []()                                                                        | [GH]()                                                            | <desc>                                                 |
 | Campus     | Trainer       | []()                                                                        | [GH]()                                                            | <desc>                                                 |
