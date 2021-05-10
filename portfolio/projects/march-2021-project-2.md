@@ -8,6 +8,12 @@
 | Nantes   | Bastien    | [NAOTRI](https://wcsnaotri.netlify.app/)                                | [GH](https://github.com/WildCodeSchool/nts-js-202103-p2-recyclage)   | Application permettant de trier et recycler ses déchets de façon gamifiée         |
 | Biarritz | Basile     | [Wizic](https://goofy-brown-bea7cd.netlify.app/)                        | [GH](https://github.com/WildCodeSchool/btz-0321-p2-wildify)          | Music app                                                                         |
 | Biarritz | Basile     | [Poketeams](https://stoic-stonebraker-432e94.netlify.app/)              | [GH](https://github.com/WildCodeSchool/btz-0321-p2-pok-Teams)        | Pokedex                                                                           |
-| Biarritz | Basile     | [GitCodeSchool](https://youthful-shockley-522838.netlify.app/#/)        | [GH](https://github.com/WildCodeSchool/btz-0321-p2-gitCodeSchool)    | Github web UI                                                                     |
+| Biarritz | Basile     | [GitCodeSchool](https://youthful-shockley-522838.netlify.app/#/)        | [GH](https://github.com/WildCodeSchool/btz-0321-p2-gitCodeSchool)    | Github web UI
+| Remote FR | Katalina  | [MoodMixtape](https://moodmixtape.netlify.app/)                                                                                      | [GH](https://github.com/David-Damato/Mood_Mixtape)
+| Remote FR | Katalina  | [DoYooNo](https://doyoono.netlify.app/)                       | [GH](https://github.com/pierrehouot/Doyoono
+)
+| Remote FR | Katalina  | [FridginHungry](https://fridgin-hungry.netlify.app/)        |[GH](https://github.com/Julien-Brcht-Rndlt/fridgin-hungry
+)
+| Remote FR | Katalina  | [Oovy]()                                                     |[GH](https://github.com/Edouard-LARROCHE/Oovy-project-2)
 | Campus   | Trainer    | []()                                                                    | [GH]()                                                               | <desc>                                                                            |
 | Campus   | Trainer    | []()                                                                    | [GH]()                                                               | <desc>                                                                            |

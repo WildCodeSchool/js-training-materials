@@ -8,11 +8,19 @@
 | Nantes     | Bastien       | [VisitNantes](https://teasmade.github.io/VisitNantes/)                                                              | [GH](https://github.com/teasmade/VisitNantes)                                                            |                                                |
 | Nantes     | Bastien       | [Blog Nantes](https://pbouhours.github.io/BienvenueNantes.github.io/)                                                | [GH](https://github.com/PBouhours/Projet1-NantesWebSite)                                                            |                                                |
 | Nantes     | Bastien       | [Run - Boulangerie](https://vgaugler.github.io/RunBoulangerie-HTML-CSS-JS/index.html)                               | [GH](https://github.com/Crocoya/Projet-1-Run)                                                            |                                                |
-| Nantes     | Bastien       | [4 Spirited Guys](http://www.apoppe.com/)                                                                           | [GH](https://github.com/Poppe-A/4-spirited-guys) 
+| Nantes     | Bastien       | [4 Spirited Guys](http://www.apoppe.com/)                                                                           | [GH](https://github.com/Poppe-A/4-spirited-guys)
 | Lisbon     | Connor       | [CoffeTime](https://coffeetime-wcs.github.io/CoffeeTime/)                           | [GH]()                                                        |
 | Lisbon     | Connor       | [Studio Alma](https://studio-alma.netlify.app/index.html)                           | [GH]()                                                        |
 | Berlin     | Pierre       | [House of To Be](https://okankarakaya.github.io/house-of-tobe/)                           | [GH]()                                                        |
 | Berlin     | Pierre       | [Food Loops](https://lucamilanese90.github.io/foodLoops/index.html)                           | [GH]()                                                        |
-| Berlin     | Pierre       | [Arigato](https://may-moff.github.io/arigato/)                           | [GH]()                                                        |
+| Berlin     | Pierre       | [Arigato](https://may-moff.github.io/arigato/)                           | [GH]()    
+| Remote FR  | Katalina     | [Wilders2021](https://compassionate-mclean-5552f0.netlify.app/
+)                           | [GH](https://github.com/BaptisteGrias/Project1)
+| Remote FR  | Katalina     | [Travel66] [GH] (https://github.com/SylvainLaconi/Travel-66)
+)
+|Remote FR   | Katalina     | [AdoptUnWilder]()
+)                           | [GH] (https://github.com/Palabbe/adopt-un-wilder)  
+|Remote FR   | Katalina     | [SAKG] (https://reverent-meitner-6ead5a.netlify.app/index.html)
+                            | [GH] (https://github.com/SophieTopart/WCS-REM-Project1-SAKG)                                                    |
 | Campus     | Trainer       | []()                                                                        | [GH]()                                                            | <desc>                                                 |
 | Campus     | Trainer       | []()                                                                        | [GH]()                                                            | <desc>                                                 |
