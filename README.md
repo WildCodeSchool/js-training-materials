@@ -103,6 +103,7 @@ _to create a new workshop you are welcome to use the [Workshop Template](https:/
 - [Discover Git/Github](https://wildcodeschool.github.io/workshop-git/)
 - [Console Workshop](./workshops/console.md)
 - [Search and Dev](./workshops/searchanddev.md)
+- [React Exercices](./workshops/workshop-react-exercices/README.md)
 
 ### Live Coding
 
