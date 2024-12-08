@@ -1,0 +1,47 @@
+# Dom manipulation
+
+This workshop aims to guide you for the realization of a youtube like main page.
+
+I gave the following rules to my students and the exercice goes well.
+
+
+## Part 1 - View deconstruction
+By group of two, go to [youtube](https://www.youtube.com) and try to think about the construction of youtube page ( 10-15 min )
+
+- What html parts seems "duplicated" ?
+- What are the changing values of theses elements ?
+- Could you try to create a simple html document with one or two elements of theses duplicated parts ? (By now forget about css, only care about html skeleton)
+
+## Part 2 - JS injection
+Based on what students detect as duplicate html parts (you could even talk  about "component" at this time) make theme isolate changing value(property) of the component(object)
+
+The following exemple is for videos section: 
+
+- Create one literal object containing the variable parts that you saw in the Part 1 (each variable will be a property)
+ex: const video = {title:'Poldoore • Le Mellotron', author:'Le mellotron', imgUrl:'https://i.ytimg.com/an_webp/0pUucK_oe6I/mqdefault_6s.webp?du=3000&sqp=CNrO4vMF&rs=AOn4CLCpuYbQGwiOEPO6uHWJt3ocJrNHRg'};
+- Based on that object try to create a string which looks like HTML concatenation or interpolation will be your best friend: `<h1>${video.title}</h1>`
+- Inject your concatened string into an html container selected by his id.
+ex: (one line solution) document.getElementById('container').innerHTML = `<img src="${video.imgUrl}"> <h1>${video.title}</h1>`
+- If you're able to achieve the previous point, you should be able to create an array, containing several video objects and iterate on that array to generate a long html string containing several video thumbnails.
+
+
+## Part 3 - Dynamic insert
+We are now able to converte a JS array into a long html string and then inject it into DOM. 
+What if we want to allow the user to add a new video himself ? 
+
+We will need a form with a send button. But first of all let's check that we know th basics !
+
+Several question to ask yourself !
+
+Am I able to detect a click with Javascript ? If no: "Detect click event javascript" on google
+Am I able to read input value ? If no: "read input value from javascript" on google
+
+What if we combine these piece of code ? 
+- Could you try to show in the browser console the input value when you click on button ?
+- What if you put 3 different input (title/imgUrl/author) ? Are you still able to show their values into the console ? 
+- What if you try to create a new literal object from these 3 values ? 
+- console.log this object to be sure ;) 
+- Are you able to add this new object into the existing array ? If no "add a new element to array javascript" on google
+- console.log again !!
+
+If you're sure about the previous points, then you almost finish the job ! You only need to execute the exacte same logic that you use to initialize the page. a new "initPage()" function seems perfect that 
